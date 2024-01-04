@@ -247,8 +247,9 @@ margin-bottom: 40px;
   color: #272727;
   text-align: center;
   font-size: 40px;
-  font-style: normal;
   font-weight: 700;
+  padding-top: 150px;
+  padding-bottom: 0;
   
   }
 .shopping{
@@ -258,4 +259,88 @@ margin-bottom: 40px;
   font-style: normal;
   font-weight: 400;
   line-height: 30px;
+  padding-top: 0px;
+}
+
+.form{
+  width: 600px;
+height: 50px;
+flex-shrink: 0;
+border-radius: 8px;
+background: #FFF;
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+margin-left: 190px;
+border: none;
+
+}
+.email{
+  padding-left: 5px;
+}
+.btn3{
+  width: 200px;
+height: 64px;
+border: none;
+border-radius: 8px;
+background: #E55473;
+width: 88px;
+height: 27.429px;
+color: #FFF;
+font-family: Lato;
+font-size: 20x;
+font-style: normal;
+font-weight: 400;
+text-align: center;
+display: flex;
+margin-left: 800px;
+margin-bottom: 300px;
+
+}
+.footer{
+  width: 1922px;
+height: 449px;
+flex-shrink: 0;
+background: #111010;
+margin-top: 120px;
+
+}
+
+.title{
+  color: #E55473;
+font-family: Lato;
+font-size: 48px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+margin-left: 500px;
+padding-top: 100px;
+padding-bottom: 0;
+
+}
+.shop{
+  color:#FFF;
+}
+.content{
+  color: rgba(255, 255, 255, 0.90);
+text-align: center;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+width: 625px;
+margin-left: 300px;
+padding-top: 5px;
+
+}
+.end{
+  color: rgba(255, 255, 255, 0.40);
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-left: 400px;
+
 }
